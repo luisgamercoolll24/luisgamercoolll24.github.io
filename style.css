@@ -22,6 +22,7 @@ html {
 }
 
 body {
+  background-image: url("pexels-kaip-1341279.jpg");
   background-color: var(--bg-color);
   color: var(--text-color);
   font-family: var(--font-sans);
